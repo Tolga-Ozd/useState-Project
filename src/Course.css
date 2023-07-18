@@ -1,0 +1,15 @@
+.course {
+    width: 250px;
+
+}
+.course:hover {
+    opacity: 0.85;
+}
+
+
+.courseDiv{
+    margin: 10px;
+    border: 1px solid lightgrey;
+    padding: 10px;
+    border-radius: 5px;
+}
