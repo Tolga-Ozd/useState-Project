@@ -14,6 +14,6 @@ Hello friends. Here is my project using the useState Hook. In the project, the b
 -React , <br> 
 -useState ,<br>
 -components structure, <br>
--finding ,<br> 
+-Props ,<br> 
 -Javascript,<br> 
 -Css are used in this project.
